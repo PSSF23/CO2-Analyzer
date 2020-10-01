@@ -1,9 +1,9 @@
 # COGS108_Team174
-# Haoyin Xu
-# Yosuke Koike
-# Chin To Chim
-# Haoqi Wu
-# Pratyush Khurana
+### [Haoyin Xu](https://github.com/PSSF23)
+### [Yosuke Koike](https://github.com/yosuke1104)
+### [Chin To Chim](https://github.com/ctchim)
+### [Haoqi Wu](https://github.com/wuhaoqi98)
+### [Pratyush Khurana](https://github.com/pratyushk97)
 
 
 Procedure:
